@@ -40,14 +40,14 @@ Este é o repositório do front-end do projeto, o repositório do **back-end** e
 
 ### 3. **Homepage**: Página inicial com os pratos disponíveis
 
-#### <h3 align="center">Usuário cliente</h3>
+#### <h4>Para usuário comum:</h4>
 
 <p align="center">
   <img src="./src/assets/readme-previews/user-home-desktop1.png" alt="User Homepage Desktop Preview" width="60%" />
   <img src="./src/assets/readme-previews/user-home-mobile.png" alt="User Homepage Mobile Preview" width="24%" />
 </p>
 
-#### <h3 align="center">Usuário Administrador</h3>
+#### <h4>Para usuário administrador:</h4>
 
 <p align="center">
   <img src="./src/assets/readme-previews/admin-home-desktop.png" alt="Admin Homepage Desktop Preview" width="60%" />
@@ -70,14 +70,14 @@ Este é o repositório do front-end do projeto, o repositório do **back-end** e
 
 ### 6. **Visualizar prato**: Detalhes de um prato específico
 
-#### <h3 align="center">Usuário cliente</h3>
+#### <h4>Para usuário comum:</h4>
 
 <p align="center">
   <img src="./src/assets/readme-previews/user-dish-desktop.png" alt="User Dish Desktop Preview" width="60%" />
   <img src="./src/assets/readme-previews/user-dish-mobile.png" alt="User Dish Mobile Preview" width="23%" />
 </p>
 
-#### <h3 align="center">Usuário administrador</h3>
+#### <h4>Para usuário administrador:</h4>
 
 <p align="center">
   <img src="./src/assets/readme-previews/admin-dish-desktop.png" alt="Admin Dish Desktop Preview" width="60%" />
