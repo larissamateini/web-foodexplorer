@@ -136,7 +136,7 @@ Agora, você pode acessar a aplicação em `http://localhost:5173`.
 
 ---
 
-## 👥 Users para teste {#users}
+## 👥 Users para teste
 
 1. **Admin**:  
    - **E-mail**: admin@test.com  
