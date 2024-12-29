@@ -18,7 +18,7 @@ O **Food Explorer** é uma aplicação de cardápio digital, desenvolvida como o
 Neste repositório, está disponível o **front-end** do projeto.
 
 🔗 **Acesse a aplicação aqui**:  
-[Food Explorer](https://food-explorer-web00.netlify.app/)
+[Food Explorer](https://menu-food-explorer.netlify.app/)
 
 ---
 
@@ -66,7 +66,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 2. **Clone este repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/food-explorer.git
+    git clone https://github.com/larissamateini/web-foodexplorer
     ```
 
 3. **Instale as dependências**:
