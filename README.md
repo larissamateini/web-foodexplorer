@@ -14,22 +14,76 @@
 ## 📄 Projeto
 
 O **Food Explorer** é uma aplicação de cardápio digital, desenvolvida como o desafio final do curso **Explorer** da Rocketseat.
+O objetivo do projeto é a criação de uma plataforma em que os usuários clientes possam filtrar e visualizar detalhes de pratos de um restaurante para realizar pedidos, enquanto os usuários administradores têm a capacidade de gerenciar o cardápio, podendo criar novos pratos, edita-los e excluí-los.
 
-Neste repositório, está disponível o **front-end** do projeto.
+Este é o repositório do front-end do projeto, o repositório do **back-end** está disponível [aqui](https://github.com/larissamateini/api-foodexplorer).
 
 🔗 **Acesse a aplicação aqui**:  
-[Food Explorer](https://menu-food-explorer.netlify.app/)
+[App Food Explorer](https://menu-food-explorer.netlify.app/)
 
 ---
 
 ## 📑 Páginas
 
-1. **SignIn**: Tela de login
-2. **SignUp**: Tela de cadastro
-3. **Homepage**: Página inicial com os pratos disponíveis
-4. **Novo prato**: Formulário para adicionar novos pratos
-5. **Editar prato**: Formulário para editar pratos existentes
-6. **Exposição do prato**: Detalhes de um prato específico
+### 1. **SignIn**: Página de login
+
+<p align="center">
+  <img src="./src/assets/readme-previews/login-desktop.png" alt="SignIn Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/login-mobile.png" alt="SignIn Mobile Preview" width="45%" />
+</p>
+
+### 2. **SignUp**: Página de cadastro
+
+<p align="center">
+  <img src="./src/assets/readme-previews/signup-desktop.png" alt="SignUp Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/signup-mobile.png" alt="SignUp Mobile Preview" width="45%" />
+</p>
+
+### 3. **Homepage**: Página inicial com os pratos disponíveis
+
+#### User
+
+<p align="center">
+  <img src="./src/assets/readme-previews/user-home-desktop1.png" alt="User Homepage Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/user-home-mobile.png" alt="User Homepage Mobile Preview" width="45%" />
+</p>
+
+#### Admin
+
+<p align="center">
+  <img src="./src/assets/readme-previews/admin-home-desktop.png" alt="Admin Homepage Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/admin-home-mobile.png" alt="Admin Homepage Mobile Preview" width="45%" />
+</p>
+
+### 4. **Adicionar prato**: Página com formulário para adicionar novos pratos
+
+<p align="center">
+  <img src="./src/assets/readme-previews/admin-newdish-desktop.png" alt="New Dish Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/admin-newdish-mobile.png" alt="New Dish Mobile Preview" width="45%" />
+</p>
+
+### 5. **Editar prato**: Página com formulário para editar pratos existentes
+
+<p align="center">
+  <img src="./src/assets/readme-previews/admin-editdish-desktop.png" alt="Edit Dish Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/admin-editdish-mobile.png" alt="Edit Dish Mobile Preview" width="45%" />
+</p>
+
+### 6. **Visualizar prato**: Detalhes de um prato específico
+
+#### User
+
+<p align="center">
+  <img src="./src/assets/readme-previews/user-dish-desktop.png" alt="User Dish Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/user-dish-mobile.png" alt="User Dish Mobile Preview" width="45%" />
+</p>
+
+#### Admin
+
+<p align="center">
+  <img src="./src/assets/readme-previews/admin-dish-desktop.png" alt="Admin Dish Desktop Preview" width="45%" />
+  <img src="./src/assets/readme-previews/admin-dish-mobile.png" alt="Admin Dish Mobile Preview" width="45%" />
+</p>
 
 ---
 
