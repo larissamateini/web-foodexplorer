@@ -11,7 +11,7 @@
 
 ---
 
-## 📄 Projeto
+##  <a id="project"></a>📄 Projeto
 
 O **Food Explorer** é uma aplicação de cardápio digital, desenvolvida como o desafio final do curso **Explorer** da Rocketseat.  
 O objetivo do projeto é a criação de uma plataforma em que os usuários clientes possam filtrar e visualizar detalhes de pratos de um restaurante para realizar pedidos, enquanto os usuários administradores têm a capacidade de gerenciar o cardápio, podendo criar novos pratos, editá-los e excluí-los.
@@ -22,7 +22,7 @@ Este é o repositório do front-end do projeto, o repositório do **back-end** e
 
 ---
 
-## 📑 Páginas
+## <a id="pages"></a>📑 Páginas
 
 ### 1. **SignIn**: Página de login
 
@@ -86,7 +86,7 @@ Este é o repositório do front-end do projeto, o repositório do **back-end** e
 
 ---
 
-## ⚙️ Funcionalidades
+## <a id="features"></a>⚙️ Funcionalidades
 
 - 🔑 **Login**: Iniciar sessão
 - 📝 **Cadastro de usuário**: Criar uma conta de usuário
@@ -98,7 +98,7 @@ Este é o repositório do front-end do projeto, o repositório do **back-end** e
 
 ---
 
-## 🛠️ Tecnologias
+## <a id="technologies"></a>🛠️ Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -113,7 +113,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🚀 Para executar localmente
+## <a id="usage"></a>🚀 Para executar localmente
 
 1. **Instale o Node.js** e o **npm** na sua máquina, se ainda não estiverem instalados.
 
@@ -136,7 +136,7 @@ Agora, você pode acessar a aplicação em `http://localhost:5173`.
 
 ---
 
-## 👥 Users para teste
+## <a id="users"></a>👥 Users para teste
 
 1. **Admin**:  
    - **E-mail**: admin@test.com  
